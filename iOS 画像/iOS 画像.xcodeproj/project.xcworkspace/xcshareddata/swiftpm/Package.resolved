@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftExtensions",
+        "repositoryURL": "https://github.com/mszopensource/Swift-Extensions.git",
+        "state": {
+          "branch": "master",
+          "revision": "77b6632a9d404a7f66ea74850863be9edb6fc99a",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
